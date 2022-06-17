@@ -18,8 +18,8 @@ require (
 	github.com/stretchr/testify v1.7.2
 	go.opencensus.io v0.23.0
 	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401
-	k8s.io/api v0.24.1
-	k8s.io/apimachinery v0.24.1
+	k8s.io/api v0.24.2
+	k8s.io/apimachinery v0.24.2
 	k8s.io/client-go v0.24.1
 	sigs.k8s.io/controller-runtime v0.12.1
 )
